@@ -1,1 +1,1 @@
-# This is readme file for the gradledwr test.
+This is readme file for the gradledwr test.
