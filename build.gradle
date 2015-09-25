@@ -3,11 +3,21 @@ apply plugin: 'eclipse'
 apply plugin: 'maven'
 apply plugin: 'war'
 
-sourceCompatibility = 1.7
+//sourceCompatibility = 1.7
 
 repositories {
 	     flatDir {dirs "libs"}
      	 mavenCentral()
+}
+
+sourceSets {
+	main {
+		java {
+			resources {
+				srcDirs = ['src/main/resources', 'src/main/java']
+			}
+		}
+	}
 }
 
 dependencies {
