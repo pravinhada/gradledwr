@@ -1,4 +1,4 @@
-package com.test.dao.impl;
+package com.gradledwr.dao.impl;
 
 import java.util.List;
 
@@ -7,9 +7,9 @@ import org.apache.commons.logging.LogFactory;
 import org.hibernate.Query;
 import org.hibernate.Session;
 
-import com.test.dao.ProviderDAO;
-import com.test.domain.Provider;
-import com.test.factory.HibernateSessionFactory;
+import com.gradledwr.dao.ProviderDAO;
+import com.gradledwr.domain.Provider;
+import com.gradledwr.factory.HibernateSessionFactory;
 
 public class ProviderDaoImpl implements ProviderDAO {
 

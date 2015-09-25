@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.gradledwr.factory;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;

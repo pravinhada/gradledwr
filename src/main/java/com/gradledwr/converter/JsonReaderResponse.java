@@ -1,4 +1,4 @@
-package com.test.converter;
+package com.gradledwr.converter;
 
 import java.util.List;
 

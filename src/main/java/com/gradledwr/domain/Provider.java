@@ -1,4 +1,4 @@
-package com.test.domain;
+package com.gradledwr.domain;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.test.dwr;
+package com.gradledwr.dwr;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,10 +6,10 @@ import java.util.List;
 import org.directwebremoting.annotations.RemoteMethod;
 import org.directwebremoting.annotations.RemoteProxy;
 
-import com.test.converter.JsonReaderResponse;
-import com.test.converter.ProviderRecord;
-import com.test.domain.Provider;
-import com.test.service.ProviderService;
+import com.gradledwr.converter.JsonReaderResponse;
+import com.gradledwr.converter.ProviderRecord;
+import com.gradledwr.domain.Provider;
+import com.gradledwr.service.ProviderService;
 
 /**
  * The main DWR Proxy Object called from the DWR JavaScript. Look more in

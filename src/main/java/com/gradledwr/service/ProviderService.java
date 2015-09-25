@@ -1,13 +1,13 @@
-package com.test.service;
+package com.gradledwr.service;
 
 import java.util.List;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import com.test.dao.ProviderDAO;
-import com.test.dao.impl.ProviderDaoImpl;
-import com.test.domain.Provider;
+import com.gradledwr.dao.ProviderDAO;
+import com.gradledwr.dao.impl.ProviderDaoImpl;
+import com.gradledwr.domain.Provider;
 
 public class ProviderService {
 	private static Log log = LogFactory.getLog(ProviderService.class);

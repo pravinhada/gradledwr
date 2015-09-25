@@ -1,4 +1,4 @@
-package com.test.dwr;
+package com.gradledwr.dwr;
 
 import org.directwebremoting.annotations.RemoteMethod;
 import org.directwebremoting.annotations.RemoteProxy;

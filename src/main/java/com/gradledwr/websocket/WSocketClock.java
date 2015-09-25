@@ -1,4 +1,4 @@
-package com.test.websocket;
+package com.gradledwr.websocket;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

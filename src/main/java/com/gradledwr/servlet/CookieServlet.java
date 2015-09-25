@@ -1,4 +1,4 @@
-package com.test.servlet;
+package com.gradledwr.servlet;
 
 import java.io.IOException;
 
