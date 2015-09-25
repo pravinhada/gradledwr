@@ -11,7 +11,7 @@
 		<property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
 		<property name="hibernate.current_session_context_class">thread</property>
 
-		<mapping class="com.test.domain.Provider" />
-		<mapping resource="com/test/domain/Provider.hbm.xml" />
+		<mapping class="com.gradledwr.domain.Provider" />
+		<mapping resource="com/gradledwr/domain/Provider.hbm.xml" />
 	</session-factory>
 </hibernate-configuration>

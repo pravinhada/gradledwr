@@ -18,10 +18,10 @@
 		<init-param>
 			<param-name>classes</param-name>
 			<param-value>
-				 com.test.dwr.Message,
-				 com.test.dwr.Providers,
-				 com.test.converter.JsonReaderResponse,
-				 com.test.converter.ProviderRecord
+				 com.gradledwr.dwr.Message,
+				 com.gradledwr.dwr.Providers,
+				 com.gradledwr.converter.JsonReaderResponse,
+				 com.gradledwr.converter.ProviderRecord
 			</param-value>
 		</init-param>
 	</servlet>
@@ -33,7 +33,7 @@
 
 	<servlet>
 		<servlet-name>CookieServlet</servlet-name>
-		<servlet-class>com.test.servlet.CookieServlet</servlet-class>
+		<servlet-class>com.gradledwr.servlet.CookieServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>

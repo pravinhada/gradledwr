@@ -1,4 +1,4 @@
-package com.test.dao.impl;
+package com.gradledwr.dao.impl;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.test.dao.ProviderDAO;
-import com.test.domain.Provider;
+import com.gradledwr.dao.ProviderDAO;
+import com.gradledwr.domain.Provider;
 
 public class ProviderTest {
 

@@ -1,4 +1,4 @@
-package com.test.service;
+package com.gradledwr.service;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.test.domain.Provider;
+import com.gradledwr.domain.Provider;
 
 public class ProviderServiceTest {
 

@@ -1,4 +1,4 @@
-package com.test.wsocket.timertest;
+package com.gradledwr.wsocket.timertest;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
