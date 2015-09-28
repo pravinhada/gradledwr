@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DWR Demo</title>
+<title>Gradle DWR Demo</title>
 <script type='text/javascript' src='dwr/engine.js'></script>
 <script type='text/javascript' src='dwr/util.js'></script>
 <script type='text/javascript' src='dwr/interface/Message.js'></script>
